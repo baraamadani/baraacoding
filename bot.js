@@ -13,4 +13,4 @@ game: {
   });
 });
 
-client.login('NjI5MDQzNDI2Mjk3NjQzMDA5.Xe6rFg.wuewR_DUeUL-f0XPqTxIJ3x-mVI');
+client.login('mfa.AQ8zwT_WhAp_q1Nrdesdpjw6EjejZDaWZJWltFIbIufh34fHfTgiWhiFD6yGtWPwAe_23duvn3SIxgCvksUw');
